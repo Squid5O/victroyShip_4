@@ -16,8 +16,7 @@ https://youtu.be/RVIuSBr6IQk
 
 -------------------
 ## 개발
-언리얼 블루프린트(5.4v), 언리얼 C++(visual studio)
-chatGPT4o, Python(server)
+언리얼 블루프린트(5.4v), 언리얼 C++(visual studio), chatGPT4o, Python(server)
 
 -------------------
 ## 기능
